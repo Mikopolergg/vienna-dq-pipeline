@@ -9,6 +9,7 @@ A student project where I check the quality of the tree register of the City of 
 - Source: Baumkataster Wien, published by Stadt Wien on data.gv.at
 - Attribution: Datenquelle: Stadt Wien - https://data.wien.gv.at
 - Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en)
+- Use of the data: the data is only analysed in this project. The raw file stays unchanged and is not republished here. This is my own project and is not connected to the City of Vienna.
 - File: `BAUMKATOGD.csv`, about 53 MB, 19 columns, one row per tree
 - The raw file is not in this repository because of its size. To run the project, download it from data.gv.at and save it as `data/raw/baumkataster.csv`.
 
